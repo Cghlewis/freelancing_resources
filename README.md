@@ -26,8 +26,8 @@ Over the last several years I have collected these resources to share with indiv
 
 - [Data Freelancers](https://datafreelancers.com/) (Ben Jones)
 - [Data Consultants](https://docs.google.com/spreadsheets/d/1sQmagDcatQfSQFtV2SQTjpBlUW7z0ubDXAP707aW4JU) (Crystal Lewis)
-- [Data Drive Consultant Database](https://docs.google.com/forms/d/e/1FAIpQLSeyzzp8aSQWxuoOn4miK5ra33N53v8r6JETDVY-mnf7WUJO-g/viewform)
-- [CIRCLE Consultant Request](https://earlychildhood.stanford.edu/circle-consultant-request-qualifications)
+- [Data Drive Consultant Database](https://docs.google.com/forms/d/e/1FAIpQLSeyzzp8aSQWxuoOn4miK5ra33N53v8r6JETDVY-mnf7WUJO-g/viewform) - link not currently working
+- [CIRCLE Consultant Request](https://earlychildhood.stanford.edu/circle-consultant-request-qualifications) 
 - [Research Pathfinder](https://www.researchpathfinder.co/)
 - [Illuminate LLC Partners](https://illcglobal.com/careers-and-consulting/)
 - [MBO Partners](https://www.mbopartners.com/)
