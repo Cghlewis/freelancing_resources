@@ -31,6 +31,7 @@ Over the last several years I have collected these resources to share with indiv
 - [Research Pathfinder](https://www.researchpathfinder.co/)
 - [Illuminate LLC Partners](https://illcglobal.com/careers-and-consulting/)
 - [MBO Partners](https://www.mbopartners.com/)
+- [Everstead Strategies - Join Consultant Database](https://www.eversteadstrategies.com/consultants)
 
 ### Miscellaneous 🗃️
 
